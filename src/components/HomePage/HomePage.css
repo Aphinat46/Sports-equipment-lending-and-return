@@ -1,0 +1,17 @@
+.e-img {
+    max-width: 60%;
+    height: auto;
+}
+
+.text-truncation-2 {
+    -webkit-line-clamp: 2;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+  }
+
+  .e-card {
+    width: 100%;
+    min-height: 100%;
+  }
